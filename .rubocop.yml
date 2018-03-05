@@ -1,0 +1,8 @@
+Layout:
+  SpaceInsideBlockBraces:
+    Enabled: true
+  EmptyLineAfterMagicComment:
+    Enabled: false
+
+Metrics/LineLength:
+  Max: 120
